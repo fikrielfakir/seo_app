@@ -1,0 +1,2 @@
+# Edit the file to remove the API key
+nano database/seeders/UpdateToolSeederDemo.php
